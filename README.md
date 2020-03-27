@@ -1,2 +1,2 @@
-# CS50
-CS50 courses I have taken
+# CS50 certificates
+ CS50 certificates of the courses I have taken so far...
